@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^myesperal\.life$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.myesperal\.life$
+RewriteRule ^/?$ "http\:\/\/myesperal\.com" [R=301,L]
+

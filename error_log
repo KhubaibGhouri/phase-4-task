@@ -1,0 +1,283 @@
+[12-Apr-2017 02:23:49 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[12-Apr-2017 02:48:56 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[12-Apr-2017 02:54:20 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 154
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 160
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 168
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 176
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 184
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 193
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 202
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 211
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 224
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 234
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 234
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 329
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 339
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 341
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 343
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 353
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 363
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 372
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 381
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 391
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 393
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 403
+[12-Apr-2017 06:18:11 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 405
+[12-Apr-2017 06:21:41 America/New_York] PHP Notice:  Undefined index: firstname in /home/muhasdqu/dev.muhammadimran.info/docter/login.php on line 25
+[12-Apr-2017 06:21:41 America/New_York] PHP Notice:  Undefined index: lastname in /home/muhasdqu/dev.muhammadimran.info/docter/login.php on line 26
+[12-Apr-2017 06:21:41 America/New_York] PHP Notice:  Undefined index: address in /home/muhasdqu/dev.muhammadimran.info/docter/login.php on line 27
+[12-Apr-2017 06:21:41 America/New_York] PHP Notice:  Undefined index: address2 in /home/muhasdqu/dev.muhammadimran.info/docter/login.php on line 28
+[12-Apr-2017 06:21:41 America/New_York] PHP Notice:  Undefined index: dateofbirth in /home/muhasdqu/dev.muhammadimran.info/docter/login.php on line 29
+[12-Apr-2017 06:21:41 America/New_York] PHP Notice:  Undefined index: phone in /home/muhasdqu/dev.muhammadimran.info/docter/login.php on line 30
+[12-Apr-2017 06:21:41 America/New_York] PHP Notice:  Undefined index: email in /home/muhasdqu/dev.muhammadimran.info/docter/login.php on line 31
+[12-Apr-2017 06:21:41 America/New_York] PHP Notice:  Undefined index: City in /home/muhasdqu/dev.muhammadimran.info/docter/login.php on line 32
+[12-Apr-2017 06:21:41 America/New_York] PHP Notice:  Undefined index: State in /home/muhasdqu/dev.muhammadimran.info/docter/login.php on line 33
+[12-Apr-2017 06:21:41 America/New_York] PHP Notice:  Undefined index: Zip in /home/muhasdqu/dev.muhammadimran.info/docter/login.php on line 34
+[12-Apr-2017 06:21:41 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/login.php on line 116
+[12-Apr-2017 06:43:57 America/New_York] PHP Notice:  Undefined index: Country in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 132
+[12-Apr-2017 06:44:04 America/New_York] PHP Notice:  Undefined index: Country in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 132
+[12-Apr-2017 07:19:08 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 154
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 160
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 168
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 176
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 184
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 193
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 202
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 211
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 224
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 234
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 234
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 484
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 494
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 496
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 498
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 508
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 518
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 527
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 536
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 546
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 548
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 558
+[12-Apr-2017 07:43:44 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 560
+[12-Apr-2017 11:34:44 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[12-Apr-2017 11:40:06 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[12-Apr-2017 11:41:35 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[12-Apr-2017 11:44:15 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[12-Apr-2017 12:09:09 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[13-Apr-2017 01:01:57 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[13-Apr-2017 10:01:42 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[13-Apr-2017 10:37:43 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[13-Apr-2017 10:37:43 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[13-Apr-2017 10:41:41 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[13-Apr-2017 10:41:41 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[13-Apr-2017 10:42:04 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[13-Apr-2017 10:42:04 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[13-Apr-2017 10:50:51 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[13-Apr-2017 10:50:51 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[14-Apr-2017 12:52:46 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[14-Apr-2017 12:52:47 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[14-Apr-2017 12:52:47 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[14-Apr-2017 13:02:59 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[14-Apr-2017 13:02:59 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[14-Apr-2017 13:07:47 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[14-Apr-2017 13:07:47 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[14-Apr-2017 13:08:35 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[14-Apr-2017 13:08:35 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 122
+[14-Apr-2017 13:19:40 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 82
+[14-Apr-2017 13:19:40 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 82
+[14-Apr-2017 13:20:29 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 82
+[14-Apr-2017 13:20:29 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 82
+[14-Apr-2017 13:24:27 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 82
+[14-Apr-2017 13:24:27 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 82
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 154
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 160
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 168
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 176
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 184
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 193
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 202
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 211
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 224
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 234
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 234
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 484
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 494
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 496
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 498
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 508
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 518
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 527
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 536
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 546
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 548
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 558
+[14-Apr-2017 13:24:31 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 560
+[14-Apr-2017 13:24:32 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 82
+[14-Apr-2017 13:24:43 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 82
+[14-Apr-2017 13:25:16 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 82
+[14-Apr-2017 13:25:41 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 82
+[14-Apr-2017 13:27:08 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 82
+[14-Apr-2017 13:28:42 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 91
+[14-Apr-2017 13:32:26 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 91
+[14-Apr-2017 13:33:09 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 91
+[14-Apr-2017 13:35:56 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 82
+[14-Apr-2017 13:36:34 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 82
+[14-Apr-2017 13:37:37 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 82
+[14-Apr-2017 13:40:01 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 80
+[14-Apr-2017 13:41:57 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 97
+[14-Apr-2017 13:43:54 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 97
+[14-Apr-2017 13:45:05 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 99
+[14-Apr-2017 13:46:00 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 99
+[14-Apr-2017 13:46:28 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 99
+[14-Apr-2017 13:46:43 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 99
+[14-Apr-2017 13:48:39 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 13:50:00 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 13:52:13 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 13:52:57 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 13:53:30 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 13:54:01 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 13:54:18 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 14:22:23 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 14:22:37 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[14-Apr-2017 14:22:37 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 14:22:46 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 14:23:22 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 14:23:32 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 14:26:42 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 14:26:42 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 14:27:24 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 14:27:24 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 14:27:35 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[14-Apr-2017 14:27:35 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 14:27:35 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 19:02:52 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[14-Apr-2017 19:02:52 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 01:12:52 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 01:12:52 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 01:13:04 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 01:13:04 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 03:07:13 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[15-Apr-2017 03:07:14 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 03:07:14 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 07:49:36 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 07:49:36 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:07:01 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:07:01 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:07:14 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[15-Apr-2017 12:07:14 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:07:14 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:11:40 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:11:40 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:11:55 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[15-Apr-2017 12:11:55 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:11:55 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:12:03 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:12:03 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:25:03 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:25:03 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:25:03 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:30:04 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:30:04 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:30:04 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:33:28 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:33:28 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:33:28 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:33:43 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[15-Apr-2017 12:33:44 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:33:44 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 12:33:44 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:01:25 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:01:25 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:01:25 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:01:25 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:05:26 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:05:26 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:05:26 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:05:26 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:05:53 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[15-Apr-2017 13:05:56 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:05:56 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:05:56 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:05:56 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:09:03 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:09:03 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:09:03 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:09:03 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:09:21 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[15-Apr-2017 13:09:21 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:09:21 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:09:21 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:09:21 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 154
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 160
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 168
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 176
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 184
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 193
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 202
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 211
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 224
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 234
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 234
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 484
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 494
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 496
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 498
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 508
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 518
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 527
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 536
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 546
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 548
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 558
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined variable: row in /home/muhasdqu/dev.muhammadimran.info/docter/admin-edit-user.php on line 560
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[15-Apr-2017 13:59:10 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[17-Apr-2017 02:08:00 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[17-Apr-2017 02:08:01 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[17-Apr-2017 02:08:01 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[17-Apr-2017 02:08:01 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[17-Apr-2017 02:08:01 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[17-Apr-2017 02:09:47 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[17-Apr-2017 02:09:47 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[17-Apr-2017 02:09:47 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[17-Apr-2017 02:09:47 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[17-Apr-2017 02:53:28 America/New_York] PHP Notice:  Undefined variable: error in /home/muhasdqu/dev.muhammadimran.info/docter/admin-login.php on line 98
+[17-Apr-2017 02:53:29 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[17-Apr-2017 02:53:29 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[17-Apr-2017 02:53:29 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[17-Apr-2017 02:53:29 America/New_York] PHP Notice:  Undefined index: dateofbirtd in /home/muhasdqu/dev.muhammadimran.info/docter/admin-home.php on line 102
+[17-Apr-2017 03:54:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/v/docter/admin-edit-user.php:9) in /home2/victortsan/public_html/v/docter/admin-edit-user.php on line 56
+[17-Apr-2017 03:57:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/v/docter/admin-edit-user.php:9) in /home2/victortsan/public_html/v/docter/admin-edit-user.php on line 56
+[17-Apr-2017 04:00:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/v/docter/admin-edit-user.php:9) in /home2/victortsan/public_html/v/docter/admin-edit-user.php on line 56
+[17-Apr-2017 04:02:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/v/docter/admin-edit-user.php:9) in /home2/victortsan/public_html/v/docter/admin-edit-user.php on line 64
+[17-Apr-2017 04:02:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/v/docter/admin-edit-user.php:9) in /home2/victortsan/public_html/v/docter/admin-edit-user.php on line 64
+[17-Apr-2017 04:03:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/v/docter/admin-edit-user.php:9) in /home2/victortsan/public_html/v/docter/admin-edit-user.php on line 64
+[17-Apr-2017 04:03:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/v/docter/admin-edit-user.php:9) in /home2/victortsan/public_html/v/docter/admin-edit-user.php on line 64
+[19-Apr-2017 03:58:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/myesperal.life/home.php:11) in /home2/victortsan/public_html/myesperal.life/home.php on line 57
+[19-Apr-2017 03:59:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/myesperal.life/home.php:11) in /home2/victortsan/public_html/myesperal.life/home.php on line 57
+[19-Apr-2017 04:01:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/myesperal.life/home.php:11) in /home2/victortsan/public_html/myesperal.life/home.php on line 57
+[19-Apr-2017 04:01:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/myesperal.life/home.php:11) in /home2/victortsan/public_html/myesperal.life/home.php on line 57
+[19-Apr-2017 04:05:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/myesperal.life/home.php:11) in /home2/victortsan/public_html/myesperal.life/home.php on line 57
+[19-Apr-2017 04:06:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/myesperal.life/home.php:11) in /home2/victortsan/public_html/myesperal.life/home.php on line 57
+[19-Apr-2017 04:06:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/myesperal.life/home.php:11) in /home2/victortsan/public_html/myesperal.life/home.php on line 57
+[19-Apr-2017 04:06:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/myesperal.life/home.php:11) in /home2/victortsan/public_html/myesperal.life/home.php on line 57
+[19-Apr-2017 04:27:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/myesperal.life/home.php:11) in /home2/victortsan/public_html/myesperal.life/home.php on line 57
+[19-Apr-2017 04:31:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/myesperal.life/home.php:11) in /home2/victortsan/public_html/myesperal.life/home.php on line 56
+[19-Apr-2017 09:10:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/victortsan/public_html/myesperal.life/admin-email.php:10) in /home2/victortsan/public_html/myesperal.life/admin-email.php on line 38
+[20-Apr-2017 01:16:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/victortsan/public_html/myesperal.life/login.php on line 51
+[21-Apr-2017 02:57:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'register' (T_STRING) in /home2/victortsan/public_html/myesperal.life/forgot-password.php on line 48
+[02-May-2017 01:57:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/victortsan/public_html/myesperal.life/home.php on line 827
+[02-May-2017 01:58:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/victortsan/public_html/myesperal.life/home.php on line 827
+[02-May-2017 01:58:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/victortsan/public_html/myesperal.life/home.php on line 827
+[02-May-2017 01:59:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/victortsan/public_html/myesperal.life/home.php on line 827
+[02-May-2017 02:07:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/victortsan/public_html/myesperal.life/home.php on line 827
+[02-May-2017 02:08:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/victortsan/public_html/myesperal.life/home.php on line 827
+[02-May-2017 02:16:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home2/victortsan/public_html/myesperal.life/home.php on line 827
+[02-May-2017 02:18:58 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home2/victortsan/public_html/myesperal.life/home.php on line 827
+[02-May-2017 02:21:08 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/victortsan/public_html/myesperal.life/home.php on line 141
+[02-May-2017 02:25:50 America/Chicago] PHP Warning:  Missing argument 1 for getColor(), called in /home2/victortsan/public_html/myesperal.life/home.php on line 196 and defined in /home2/victortsan/public_html/myesperal.life/home.php on line 122
